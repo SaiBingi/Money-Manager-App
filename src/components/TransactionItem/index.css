@@ -1,0 +1,21 @@
+.each-history {
+  padding: 11px 20px 13px 20px;
+  border: 1px solid #cbd5e1;
+  display: flex;
+  border-top: none;
+  height: 48px;
+  align-items: center;
+}
+
+.delete-icon {
+  width: 20px;
+}
+
+.delete-button {
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
